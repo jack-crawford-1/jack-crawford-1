@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @jack-crawford-1
-- 👀 I’m interested in tech and hiking
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on anything interesting.
+- Hi, I’m @jack-crawford-1
+- I’m interested in tech and hiking
+- I’m looking to collaborate on anything interesting.
 - 📫 How to reach me: hello@jackcrawford.co.nz
-- 😄 Pronouns: He/ Him
 
 
 <!---
