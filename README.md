@@ -25,13 +25,7 @@ I’m interested in **tech and hiking**
 - **[Community Gardens App](https://github.com/jack-crawford-1/Community-Garden-App)** - A collaborative urban gardening platform  
 
     </td>
-    <td valign="top" align="center" width="40%">
-      <a href="https://github.com/jack-crawford-1">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="ascii-jack.svg">
-          <img alt="ASCII Art of Jack Crawford" src="ascii-jack.svg" width="300">
-        </picture>
-      </a>
+    <td valign="top" align="center" width="30%">
       <img src="https://github-readme-stats.vercel.app/api?username=jack-crawford-1&show_icons=true&hide_rank=true&hide=issues,contribs&theme=dark&border_radius=10" width="300">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jack-crawford-1&layout=compact&theme=dark&border_radius=10&card_width=300" width="300">
     </td>
