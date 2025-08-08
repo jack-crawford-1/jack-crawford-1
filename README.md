@@ -24,12 +24,8 @@ I’m interested in **tech and hiking**
 - **[Community Gardens App](https://github.com/jack-crawford-1/Community-Garden-App)** - A collaborative urban gardening platform
 
 ## Contributions
-
 ![Paystation](https://img.shields.io/badge/Paystation_by_Trade_Me-Docs_Contributor-D3D800?style=flat-square&labelColor=2E2E2E&logo=trade-me&logoColor=white)
 ![MediaWiki](https://img.shields.io/badge/MediaWiki-Docs_Contributor-EB6E1F?style=flat-square&labelColor=2E2E2E&logo=wikipedia&logoColor=white)
-
-
-
 
 - Help maintain the [Paystation API documentation](https://docs.paystation.co.nz/api/index.html) via a private GitLab repo at work.
 - Updated the [MediaWiki API:Opensearch documentation](https://www.mediawiki.org/wiki/API:Opensearch) JavaScript example using fetch, async/await, and URLSearchParams
