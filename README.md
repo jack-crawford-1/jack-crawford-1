@@ -11,13 +11,12 @@
 I’m interested in **tech and hiking**  
 
 ## Tech Stack  
-• **Frontend:** React, JavaScript, TypeScript, Next.js, Tailwind CSS, Vite  
+• **Frontend:** React, TypeScript, JavaScript, Next.js, Tailwind CSS, Vite  
 • **Backend:** Node.js, Express  
-• **Database:** PostgreSQL, MongoDB  
-• **Web Services:** REST APIs, Axios  
+• **Database:** MongoDB  
+• **Web Services:** REST APIs  
 • **Version Control:** Git, GitHub, GitLab  
 • **Auth:** JWTs, OAuth2, Dotenv  
-• **Professional Development:** Agile Methodologies, Project Planning
 
 ## Projects  
 - **[Hiking App](https://github.com/jack-crawford-1/Hiking-App)** - Custom maps & trails  
