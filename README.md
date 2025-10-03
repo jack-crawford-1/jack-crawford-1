@@ -19,8 +19,9 @@ I’m interested in **tech and hiking**
 • **Auth:** JWTs, OAuth2, Dotenv  
 
 ## Projects  
-- **[Hiking App](https://github.com/jack-crawford-1/Hiking-App)** - Custom maps & trails  
-- **[Community Gardens App](https://github.com/jack-crawford-1/Community-Garden-App)** - A collaborative urban gardening platform
+- **[Hiking App](https://github.com/jack-crawford-1/hiking-trails)** - Custom maps & trails  
+- **[Community Gardens App](https://github.com/jack-crawford-1/Community-Garden-App-React)** - A collaborative urban gardening platform
+
 
 ## Contributions
 ![Paystation](https://img.shields.io/badge/Paystation_by_Trade_Me-Docs_Contributor-D3D800?style=flat-square&labelColor=2E2E2E&logo=trade-me&logoColor=white)
