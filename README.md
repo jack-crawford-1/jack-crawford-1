@@ -40,9 +40,9 @@ I’m interested in **tech and hiking**
 
     </td>
     <td valign="top" align="center" width="30%">
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,postman,nextjs,tailwind,github,vercel,googlecloud,notion,vite,git,figma&perline=4&size=55" />
-  <div>&nbsp;</div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jack-crawford-1&layout=compact&theme=tokyonight&border_radius=10&card_width=300" width="300">
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,mongodb,cs,dotnet,nextjs,tailwind,googlecloud,vite,vscode,&perline=4&size=55" />
+  
+ 
 </td>
 
     
