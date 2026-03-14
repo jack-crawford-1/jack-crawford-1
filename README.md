@@ -1,51 +1,29 @@
-
-
 <table>
   <tr>
-    <td valign="top" width="60%">
+    <td valign="middle" width="50%">
 
-# Hi, I’m @jack-crawford-1  
+# Hi, I'm @jack-crawford-1
+I'm interested in **tech and hiking**
 
+<a href="https://jackcrawford.co.nz/projects"><b>View Projects</b></a> &nbsp;·&nbsp; <a href="mailto:hello@jackcrawford.co.nz"><b>Email Me</b></a>
 
+**Frontend:** React, TypeScript, Tailwind CSS<br/>
+**Backend:** C#, .NET<br/>
+**Database:** MongoDB, PostgreSQL
 
-I’m interested in **tech and hiking**  
-
-
-<a href="https://jackcrawford.co.nz/projects">
-  <b>View Projects</b>
-</a>
 <br/>
-<a href="mailto:hello@jackcrawford.co.nz">
-  <b>Email Me</b>
-</a>
+  </td>
+    <td valign="middle" align="center" width="50%">
 
+<img src="https://skillicons.dev/icons?i=react,typescript,cs,dotnet,mongodb,postgresql,tailwind,vscode,postman&perline=3" />
 
-## Tech Stack  
-• **Frontend:** React, TypeScript, JavaScript, Next.js, Tailwind CSS, Vite  
-• **Backend:** Node.js, Express  
-• **Database:** MongoDB  
-• **Web Services:** REST APIs  
-• **Version Control:** Git, GitHub, GitLab  
-• **Auth:** JWTs, OAuth2, Dotenv  
+  </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
 
-## Contributions
-![Paystation](https://img.shields.io/badge/Paystation_by_Trade_Me-Docs_Contributor-D3D800?style=flat-square&labelColor=2E2E2E&logo=trade-me&logoColor=white)
-![MediaWiki](https://img.shields.io/badge/MediaWiki-Docs_Contributor-EB6E1F?style=flat-square&labelColor=2E2E2E&logo=wikipedia&logoColor=white)
+<img src="https://raw.githubusercontent.com/jack-crawford-1/jack-crawford-1/output/github-snake-dark.svg" />
 
-- Help maintain the [Paystation API documentation](https://docs.paystation.co.nz/api/index.html) via a private GitLab repo at work.
-
-
-
-
-
-    </td>
-    <td valign="top" align="center" width="30%">
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,mongodb,cs,dotnet,nextjs,tailwind,googlecloud,vite,vscode,&perline=4&size=55" />
-  
- 
-</td>
-
-    
+  </td>
   </tr>
 </table>
-
