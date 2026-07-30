@@ -5,7 +5,7 @@
 ## Hi, I'm @jack-crawford-1
 I'm interested in **tech and hiking**
 
-<a href="https://jackcrawford.co.nz/projects"><b>View Projects</b></a> &nbsp;·&nbsp; <a href="mailto:hello@jackcrawford.co.nz"><b>Email Me</b></a>
+<a href="https://jackcrawford.co.nz"><b>View Projects</b></a> &nbsp;·&nbsp; <a href="mailto:hello@jackcrawford.co.nz"><b>Email Me</b></a>
 
 **Frontend:** React, TypeScript, Tailwind CSS<br/>
 **Backend:** C#, .NET<br/>
